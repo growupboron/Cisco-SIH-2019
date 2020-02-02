@@ -1,0 +1,28 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "367a3c7b81ec55ec2273f037069600e87e9ef759ded59ba083c216842f672a13"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.5"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "gmail": {
+            "hashes": [
+                "sha256:8b01e4ee7c7d09f58ad0ae78573c51e83a909339f1332a87f6268b74b25e7cbc"
+            ],
+            "index": "pypi",
+            "version": "==0.6.3"
+        }
+    },
+    "develop": {}
+}
